@@ -46,11 +46,11 @@ O aplicativo abrirá automaticamente no seu navegador.
 
 ## 📈 Análise Visual
 
-Matriz de Confusão: A CNN apresentou alta precisão, com erros concentrados em classes visualmente similares.
+- Matriz de Confusão: A CNN apresentou alta precisão, com erros concentrados em classes visualmente similares.
 
-Interpretabilidade (Grad-CAM): A análise de erros revelou que o modelo foca em traços específicos (hastes e loops). Em casos de erro, o foco muitas vezes recai sobre fragmentos que lembram outra letra.
+- Interpretabilidade (Grad-CAM): A análise de erros revelou que o modelo foca em traços específicos (hastes e loops). Em casos de erro, o foco muitas vezes recai sobre fragmentos que lembram outra letra.
 
 ## 📝 Referências
 
-Dataset: KMNIST (Kuzushiji-MNIST) via TensorFlow Datasets.
-Template: Estrutura baseada nas diretrizes da Avaliação 1 (Prof. Eduardo Adame).
+- Dataset: KMNIST (Kuzushiji-MNIST) via TensorFlow Datasets.
+- Template: Estrutura baseada nas diretrizes da Avaliação 1 (Prof. Eduardo Adame).
