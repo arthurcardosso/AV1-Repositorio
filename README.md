@@ -20,6 +20,7 @@ O projeto compara duas arquiteturas de redes neurais (MLP vs CNN) e explora téc
 │   └── MLP_best.keras     # Modelo MLP treinado
 ├── requirements.txt       # Dependências do projeto
 └── README.md              # Documentação
+```
 
 ## 🚀 Instalação e Dependências
 
@@ -29,6 +30,7 @@ Instale tudo com o comando:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## 📊 Executando a Demo Interativa
 
@@ -38,6 +40,7 @@ Para iniciar o app:
 
 ```bash
 streamlit run src/app.py
+```
 
 O aplicativo abrirá automaticamente no seu navegador.
 
